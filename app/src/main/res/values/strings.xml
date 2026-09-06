@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kikoeru</string>
+    <string name="library">作品</string>
+    <string name="my_library">我的</string>
+    <string name="settings">设置</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="back">返回</string>
+    <string name="connect">连接服务器</string>
+    <string name="search_hint">搜索作品、声优、社团或标签</string>
+</resources>
