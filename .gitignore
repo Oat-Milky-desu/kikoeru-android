@@ -1,0 +1,17 @@
+.gradle/
+.gradle-user-home/
+.tooling/
+.idea/
+.kotlin/
+.codex-remote-attachments/
+.codex/
+.agents/
+local.properties
+**/build/
+*.iml
+*.jks
+*.keystore
+captures/
+dist/*.apk
+__pycache__/
+*.py[cod]
